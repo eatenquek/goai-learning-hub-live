@@ -3,7 +3,21 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#1d4fd8" />
+    <meta name="theme-color" content="#111214" />
+
+    <script>
+      // Set the theme before first paint so there is no light/dark flash.
+      // Defaults to dark; honours a saved choice from the in-page toggle.
+      (function () {
+        try {
+          var t = localStorage.getItem('goai-theme');
+          if (t !== 'light' && t !== 'dark') t = 'dark';
+          document.documentElement.dataset.theme = t;
+        } catch (e) {
+          document.documentElement.dataset.theme = 'dark';
+        }
+      })();
+    </script>
 
     <title>GoAI Learning Hub</title>
     <meta
@@ -30,8 +44,8 @@
       content="Guides and workflows that turn a loose investing idea into a tracked thesis."
     />
     <meta name="twitter:image" content="/goai-learning-hub-live/assets/goai-logo-new.png" />
-    <script type="module" crossorigin src="/goai-learning-hub-live/assets/index-DfwGo6SE.js"></script>
-    <link rel="stylesheet" crossorigin href="/goai-learning-hub-live/assets/index-BP1-tnlq.css">
+    <script type="module" crossorigin src="/goai-learning-hub-live/assets/index-B0iMGLL8.js"></script>
+    <link rel="stylesheet" crossorigin href="/goai-learning-hub-live/assets/index-XJab-sbv.css">
   </head>
   <body>
     <div id="root"></div>
