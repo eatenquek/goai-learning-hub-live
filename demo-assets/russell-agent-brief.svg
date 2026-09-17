@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Russell’s standing research brief</title>
+  <desc id="description">An illustrative brief for a NVIDIA research agent. Follow earnings, guidance, margins, valuation, competitors, and thesis risks. Gather new information as it becomes available, analyse the implications, and deliver findings with supporting evidence for Russell to review.</desc>
+  <rect width="1200" height="675" fill="#111b29"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="48" font-size="18" font-weight="700" letter-spacing="3" fill="#7dd3fc">RUSSELL’S STANDING RESEARCH BRIEF</text>
+    <text x="56" y="102" font-size="39" font-weight="700" fill="#f1f5f9">Keep the NVIDIA investment case under review.</text>
+    <text x="56" y="138" font-size="21" fill="#b8c7d9">Illustrative agent brief · Company coverage · Ongoing research</text>
+    <path d="M56 170H1144" stroke="#35465b"/>
+    <text x="56" y="211" font-size="18" font-weight="700" letter-spacing="1.5" fill="#7dd3fc">FOLLOW THESE ASPECTS</text>
+    <text x="632" y="211" font-size="18" font-weight="700" letter-spacing="1.5" fill="#fcd34d">EXPLAIN IN EACH UPDATE</text>
+    <path d="M592 198V425" stroke="#35465b"/>
+    <text x="56" y="254" font-size="27" font-weight="700" fill="#f1f5f9">Earnings, guidance, and margins</text>
+    <text x="56" y="289" font-size="23" fill="#c5d0de">Track results, management commentary,</text>
+    <text x="56" y="320" font-size="23" fill="#c5d0de">and changes to the growth outlook.</text>
+    <text x="56" y="365" font-size="27" font-weight="700" fill="#f1f5f9">Valuation, competitors, and risks</text>
+    <text x="56" y="400" font-size="23" fill="#c5d0de">Follow developments that could affect the thesis.</text>
+    <text x="632" y="254" font-size="27" font-weight="700" fill="#f1f5f9">What the new evidence means</text>
+    <text x="632" y="289" font-size="23" fill="#c5d0de">Connect each finding to the growth case</text>
+    <text x="632" y="320" font-size="23" fill="#c5d0de">and the assumptions behind it.</text>
+    <text x="632" y="365" font-size="27" font-weight="700" fill="#f1f5f9">What deserves another look</text>
+    <text x="632" y="400" font-size="23" fill="#c5d0de">Highlight risks, uncertainties, and the evidence.</text>
+    <rect x="56" y="450" width="1088" height="148" rx="14" fill="#1b3045" stroke="#3c6687"/>
+    <text x="84" y="487" font-size="18" font-weight="700" letter-spacing="1.5" fill="#7dd3fc">CONTINUE THE RESEARCH</text>
+    <text x="84" y="531" font-size="27" font-weight="700" fill="#f1f5f9">Gather new information as it becomes available.</text>
+    <text x="84" y="569" font-size="27" font-weight="700" fill="#f1f5f9">Analyse it against this brief and deliver the findings.</text>
+    <text x="56" y="645" font-size="20" fill="#b8c7d9">Russell sets the focus and reviews the implications as the research develops.</text>
+  </g>
+</svg>
